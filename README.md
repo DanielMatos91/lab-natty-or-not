@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+A Jornada da IA: Um Passeio pelo Futuro 🌌
+📒 Descrição
+Este E-book de 10 páginas que apresentar uma forma natural de tratar o diabétes. O nome do e-book é Os 3 Pilares do Controle Glicemico, que tem como base estudos cientifico que comprovam que a mudança de hábitos, controle de alimentação e exercícios fisicos podem melhorar a vida de qualquer pessoa que tem diabetes.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+IA Generativa ChatGPT para Pesquisa de estudos cienticos;
+IA Generativa "GEMINI" para redigir o texto;
+IA Generativa GAMMA para e-book completo com base no texto indicado;
 
-> Woooow! Look at this 👀
+🧐 Processo de Criação
+Utilizei o "ChatGPT" para realizar as pesquisas de estudos feitas e comprovadas que tenha o tema tratamento de diabetes. Após a pesquisa pedir que fosse feito uma resumo com os principais tópicos dos estudos que pudesse ser utilizado por uma pessoas que deseja melhorar de sua diabetes. Com esses estudos e dados solicitei ao GEMINI que redigisse capitulo a capitulo para a criação de um ebook. Após a conclusão de todos os tópicos, utilizei o GAMMA para que ele criasse um e-book fiel ao texto e com imagens ilustrativas.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🚀 Resultados
+O e-book ficou incrivel, além da didática na apresentação da proposta, criou tabelas, edição de titulos e texto e seguiu um padrão de cores.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão
+Percebi que as LLMs tem seus pontos forte e fracos e saber diferencia-las em suas aplicações podem potencializar nossos resultados.
